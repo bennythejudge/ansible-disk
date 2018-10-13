@@ -1,6 +1,8 @@
 Disk
 ====
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/ansible-disk.svg)](https://www.guardrails.io)
+
 This role allows you to format extra disks and attach them to different mount points.
 
 You can use it to move the data of different services to another disk.
